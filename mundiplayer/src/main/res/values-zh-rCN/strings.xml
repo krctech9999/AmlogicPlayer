@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MundiPlayer</string>
+
+    <string name="label_url">URL :</string>
+    <string name="label_commit">Commit</string>
+    <string name="label_play">Play</string>
+    <string name="label_plause">Pause</string>
+    <string name="label_stop">Stop</string>
+    <string name="label_fastforward">Fast Forward</string>
+    <string name="label_fastrewind">Fast Rewind</string>
+    <string name="label_error">Error</string>
+
+    <string name="label_no_video">No Video</string>
+    <string name="label_url_error">URL Error</string>
+
+
+</resources>

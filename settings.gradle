@@ -1,2 +1,2 @@
-include ':AmlPlayer', ':AmPlayer'
+include ':AmlPlayerDemo', ':AmPlayer', ':mundiplayer'
 rootProject.name='AmlogicPlayer'
