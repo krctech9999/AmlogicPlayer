@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SinglePlayer</string>
+
+    <string name="related_movies">相關影片</string>
+    <string name="error">錯誤</string>
+    <string name="ok">確定</string>
+    <string name="pause">暫停</string>
+    <string name="play">播放</string>
+    <string name="stop">停止</string>
+    <string name="play_pause_description">播放暫停鍵</string>
+    <string name="loading">載入&#8230;</string>
+    <string name="no_video_found">找不到影片</string>
+    <string name="about_app">關於播放器</string>
+    <string name="version">版本: %1$s</string>
+    <string name="popular_header">熱門影片</string>
+    <string name="preferences">參考</string>
+    <string name="error_fragment">錯誤頁面</string>
+    <string name="personal_settings">個人設定</string>
+    <string name="watch_trailer_1">試看</string>
+    <string name="watch_trailer_2">免費</string>
+    <string name="rent_1">租用日期</string>
+    <string name="rent_2">從 $1.99</string>
+    <string name="buy_1">購買</string>
+    <string name="buy_2">於 $9.99</string>
+    <string name="movie">電影</string>
+    <string name="should_start">shouldStart</string>
+    <string name="start_position">起始位置</string>
+    <string name="search_results">搜尋結果</string>
+
+    <!-- Error messages -->
+    <string name="video_error_media_load_timeout">影片載入逾時</string>
+    <string name="video_error_server_inaccessible">無法連結影音伺服器</string>
+    <string name="video_error_unknown_error">載入影片失敗</string>
+    <string name="error_fragment_message">發生錯誤</string>
+    <string name="dismiss_error">取消</string>
+    <string name="oops">Oops</string>
+
+</resources>
