@@ -21,9 +21,8 @@ import android.util.Log;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.amlogicplayer.player.comboMediaPlayer;
-import com.example.amlogicplayer.player.icMediaPlayer;
-
+import com.example.amplayer.player.comboMediaPlayer;
+import com.example.amplayer.player.icMediaPlayer;
 
 /*
  * MainActivity class that loads MainFragment

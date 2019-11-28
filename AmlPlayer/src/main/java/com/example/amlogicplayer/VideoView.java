@@ -37,8 +37,8 @@ import android.widget.MediaController;
 import android.widget.MediaController.MediaPlayerControl;
 
 
-import com.example.amlogicplayer.player.comboMediaPlayer;
-import com.example.amlogicplayer.player.icMediaPlayer;
+import com.example.amplayer.player.comboMediaPlayer;
+import com.example.amplayer.player.icMediaPlayer;
 
 import java.io.IOException;
 import java.util.HashMap;
