@@ -14,8 +14,10 @@
 
 package com.example.amlogicplayer;
 
+import android.annotation.TargetApi;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -60,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
 
     //private static String newUrl="http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/651/amlst:mainstream/playlist.m3u8?op_id=4&userId=1&channelId=25429&stime=1472737341&etime=1475329341&token=0958c18b39a1731a4f716";
 
-    //@TargetApi(Build.VERSION_CODES.CUPCAKE)
+    @TargetApi(Build.VERSION_CODES.CUPCAKE)
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -90,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);*/
     }
 
-    //@TargetApi(Build.VERSION_CODES.CUPCAKE)
+    @TargetApi(Build.VERSION_CODES.CUPCAKE)
     public class URLUtil extends AsyncTask<String, Integer, String> {
         @Override
         protected String doInBackground(String... params) {

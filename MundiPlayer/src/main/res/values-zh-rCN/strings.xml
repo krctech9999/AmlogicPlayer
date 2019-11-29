@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">朕臨播放器(Alpha)</string>
+
+    <string name="label_uri">來源位址 :</string>
+    <string name="label_ok">確定</string>
+</resources>
